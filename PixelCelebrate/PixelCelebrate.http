@@ -1,0 +1,6 @@
+@PixelCelebrate_HostAddress = http://localhost:5277
+
+GET {{PixelCelebrate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
