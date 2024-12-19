@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PixelCelebrate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+932bf359ff0d52f69c70cb9b7e7b5226f285598b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf67d23a0f518e7e37dc8d183944001a1a87fce3")]
 [assembly: System.Reflection.AssemblyProductAttribute("PixelCelebrate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PixelCelebrate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
