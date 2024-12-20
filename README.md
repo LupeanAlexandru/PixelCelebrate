@@ -74,7 +74,7 @@ dotnet ef database update
 Here’s what the homepage should look like:
 
 For User:
-![App Screenshot](assets/userScreenshot.png)
+![App Screenshot](src/assets/userScreenshot.png)
 
 For Admin:
-![App Screenshot](assets/adminScreenshot.png)
+![App Screenshot](src/assets/adminScreenshot.png)
