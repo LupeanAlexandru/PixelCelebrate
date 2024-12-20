@@ -63,8 +63,18 @@ dotnet ef migrations add MigrationName
 
 ## 2. Apply Pending Migrations
 
+After adding a migration, apply it to the database by running:
+
 ```bash
 dotnet ef database update
 ```
 
+## Screenshots
 
+Here’s what the homepage should look like:
+
+For User:
+![App Screenshot](assets/userScreenshot.png)
+
+For Admin:
+![App Screenshot](assets/adminScreenshot.png)
