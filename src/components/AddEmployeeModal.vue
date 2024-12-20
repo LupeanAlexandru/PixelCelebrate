@@ -2,7 +2,7 @@
   <div v-if="visible" class="modal-overlay">
     <div class="modal">
       <h2>Add Employee</h2>
-      <form @submit.prevent="submit">
+      <form @submit.prevent.stop="submit">
         <div>
           <label>First Name:</label>
           <input v-model="firstName" type="text" required />
