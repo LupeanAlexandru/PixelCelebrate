@@ -78,3 +78,6 @@ For User:
 
 For Admin:
 ![App Screenshot](src/assets/adminScreenshot.png)
+
+The app uses Mailtrap as a SMTP server and we can review the email we sent and it looks like this:
+![App Screenshot](src/assets/mailtrap.png)
